@@ -75,5 +75,8 @@ Requirements:
 
 ## Credits
 
-- Origin HeartGold, by its original authors. This mod would not exist without their hack.
-- Pokémon is © Nintendo / Creatures Inc. / GAME FREAK inc. This is a non-commercial fan project.
+This mod is built on **Origin HeartGold**: the original hack by 雁南飞TB (Yannanfei TB), v4.0.x by Alex (罗湖陈浩南a) on **hg-engine**, and the English translation by the Origin HeartGold English translation team. The full list, including every hg-engine contributor, is in [CREDITS.md](CREDITS.md).
+
+This mod is free and will stay free (no money, no donation prompts), as hg-engine requires.
+
+Pokémon is © Nintendo / Creatures Inc. / GAME FREAK inc. / The Pokémon Company. This is a non-commercial fan project and is not affiliated with them or with the Origin HeartGold authors.
