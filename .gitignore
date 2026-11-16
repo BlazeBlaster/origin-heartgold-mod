@@ -1,0 +1,13 @@
+# Never commit game data
+*.nds
+*.sav
+*.ml0
+*.State
+*.SaveRAM
+*.xdelta
+rom/
+out/
+ref/
+emu/
+__pycache__/
+*.pyc
