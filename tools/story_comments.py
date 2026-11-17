@@ -85,8 +85,8 @@ def apply(ctx):
         F_SHAYMIN: MOM_HEAD + "Oh my! The flowers in the garden all\\nbloomed the moment you walked in!" + MOM_REST,
     })
     branch_msg(ctx, 736, 442, 0, {
-        F_LATIOS: "Daisy: Hello, {0103:0}!\\fGrandpa called me, all worked up! A\\nLatios was hiding among his Pikachu!\\fHowever exciting your travels get, be\\nsure to come home to Pallet Town often!",
-        F_SHAYMIN: "Daisy: Hello, {0103:0}!\\fGrandpa called me, all worked up! A\\nShaymin was hiding among his Bulbasaur!\\fHowever exciting your travels get, be\\nsure to come home to Pallet Town often!",
+        F_LATIOS: "Daisy: Hello, {0103:0}!\\rGrandpa called me, all worked up! A\\nLatios was hiding among his Pikachu!\\rHowever exciting your travels get, be\\nsure to come home to Pallet Town often!",
+        F_SHAYMIN: "Daisy: Hello, {0103:0}!\\rGrandpa called me, all worked up! A\\nShaymin was hiding among his Bulbasaur!\\rHowever exciting your travels get, be\\nsure to come home to Pallet Town often!",
     })
     def blue(mon):
         a = BLUE_HEAD + "Blue: ...A %s?! Gramps never gave\\nME a legend!\\r" % mon

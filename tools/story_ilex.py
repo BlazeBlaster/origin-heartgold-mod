@@ -8,7 +8,7 @@ SCRIPT, BANK = 52, 81
 HOOK = 2645            # PlayCry [492, 0] (6 bytes), right before NPCMsg 110 at 2651
 
 TEXT = ("Shaymin: Shaaa-min!\\rYour Shaymin and the wild Shaymin\\n"
-        "touch noses happily.\\fIt seems they’re from the same\\n"
+        "touch noses happily.\\rIt seems they’re from the same\\n"
         "flower field!\\rShaymin wants to stay in the forest,\\n"
         "but it brought you a gift.")
 

@@ -12,12 +12,12 @@ SPR_PIKACHU = 453
 
 T456 = {
     'dump_pika': "My {0100:1} is garbage.\\nIt couldn’t even touch Brock’s Onix,\\fand it just looks creepy. Look at that\\fcolor!\\rThe best way to deal with garbage like\\nthat is to dump it by the road...\\r...and trick it into thinking I’ll come\\nback for it, so it waits there till it\\fdies. Ha ha ha ha!",
-    'z_flicker': "...Huh?\\nThe Charmander’s outline is\\nflickering strangely...",
+    'z_flicker': "...Huh?\\nThe Charmander’s outline is\\fflickering strangely...",
     'z_cry': "???: Zoooo-ruaaa!",
-    'z_nurse': "Nurse Joy: Oh my! That’s no Charmander!\\rIt’s a Zorua, the Tricky Fox Pokémon!\\rZorua can cast illusions that make it\\nlook like another Pokémon.\\fIts Trainer only wanted a Charmander,\\nso it kept up the disguise day and night.\\fEven after Brock’s Gym crushed it, it\\nwaited by the road as a Charmander.\\rNurse Joy: But it dropped the illusion\\nfor you, {0103:0}.\\rThat must mean it trusts you. Please\\ntake good care of it!",
+    'z_nurse': "Nurse Joy: Oh my! That’s no Charmander!\\rIt’s a Zorua, the Tricky Fox Pokémon!\\rZorua can cast illusions that make it\\nlook like another Pokémon.\\rIts Trainer only wanted a Charmander,\\nso it kept up the disguise day and night.\\rEven after Brock’s Gym crushed it, it\\nwaited by the road as a Charmander.\\rNurse Joy: But it dropped the illusion\\nfor you, {0103:0}.\\rThat must mean it trusts you. Please\\ntake good care of it!",
     'm_flicker': "...Huh?\\nSomething is stirring beneath the\\fPikachu’s costume...",
     'm_cry': "???: Mi... Mimi... kyuuu!",
-    'm_nurse': "Nurse Joy: Oh my... That’s no Pikachu!\\rIt’s a Mimikyu, the Disguise Pokémon.\\rIt wears a rag stitched to look like a\\nPikachu because it wants to be loved.\\fBut its Trainer thought it was creepy,\\nand it couldn’t even touch Brock’s Onix.\\rNurse Joy: It showed you its true self,\\n{0103:0}.\\rAll it ever wanted was to be loved.\\nPlease take good care of it!",
+    'm_nurse': "Nurse Joy: Oh my... That’s no Pikachu!\\rIt’s a Mimikyu, the Disguise Pokémon.\\rIt wears a rag stitched to look like a\\nPikachu because it wants to be loved.\\rBut its Trainer thought it was creepy,\\nand it couldn’t even touch Brock’s Onix.\\rNurse Joy: It showed you its true self,\\n{0103:0}.\\rAll it ever wanted was to be loved.\\nPlease take good care of it!",
 }
 
 def _set_obj_flag(ctx, eb, oid, flag):

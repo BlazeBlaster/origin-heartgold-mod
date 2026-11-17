@@ -6,7 +6,7 @@ EDITS = [
     (66, 67, "partner, Pikachu.", "partner, a “Pikachu” that turned out\\fto be Latios."),
     # --- Soul Dew send-off gift ---
     (439, 29, "I found this a couple of days ago while I\\nwas fixing the wiring at home. It should\\fcome in handy on your journey. Here,\\ftake it!",
-              "Oh! Is that the Pikachu from Prof. Oak’s\\nlab? I heard it’s really a Latios!\\fI found this orb washed up on the\\nbeach a few days ago. They say it has\\fa bond with the Eon Pokémon.\\fIt should come in handy. Here,\\ftake it!"),
+              "Oh! Is that the Pikachu from Prof. Oak’s\\nlab? I heard it’s really a Latios!\\rI found this orb washed up on the\\nbeach a few days ago. They say it has\\fa bond with the Eon Pokémon.\\fIt should come in handy. Here,\\ftake it!"),
     (439, 30, "a Light Ball", "a Soul Dew"),
     # --- Shiny Charmander story ---
     (314, 16, "been sitting there for ages. I wonder if\\fit’s wild.",

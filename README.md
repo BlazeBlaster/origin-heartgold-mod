@@ -13,7 +13,7 @@ Get the patches from the [Releases](../../releases) page. There are two; pick th
 | `OHG_Lugiling_from_HeartGold_USA.xdelta` | Clean **Pokémon - HeartGold Version (USA)** | `4fcded0e2713dc03929845de631d0932ea2b5a37` |
 | `OHG_Lugiling_from_OriginHG_rc8.xdelta` | **Origin HeartGold v4.0.3 EN (rc8)**, already patched | `a54a647599d59ed0060dfc4375c289d6e041318a` |
 
-The patched ROM's SHA-1 is `51ddba2e9a3bfbba577fa2f0ebbf3af9f7276758`.
+The patched ROM's SHA-1 (v1.1) is `3db008a96cd91f988a4df0fe622d2dd56a0c920f`.
 
 To apply a patch, use an xdelta tool such as [xdelta3](https://github.com/jmacd/xdelta-gpl/releases), Delta Patcher, or Rom Patcher JS:
 
