@@ -8,12 +8,12 @@ This mod is free and will stay free: no money is involved, and there are no dona
 
 - **雁南飞TB (Yannanfei TB)**: the original Origin HeartGold hack.
 - **Alex (罗湖陈浩南a)**: v4.0.x development, built on hg-engine. Alex's credits thank 耿耿耿耿鬼酱, 叶师傅 and 呱呱.
-- **The Origin HeartGold English translation team**, including u/kakapipi and collaborators: English translation, documentation, reference data and gameplay tests ([English RC8 release](https://github.com/originheartgold/origin-heart-gold-EN-translation/releases/tag/v1.0.0-rc8)).
+- **The Origin HeartGold English translation team**, including u/kakapipi and collaborators: English translation, documentation, reference data and gameplay tests ([originheartgold/origin-heart-gold-EN-translation](https://github.com/originheartgold/origin-heart-gold-EN-translation), [English RC8 release](https://github.com/originheartgold/origin-heart-gold-EN-translation/releases/tag/v1.0.0-rc8)). Their script command list (`work/tools/docs/script_cmds.json`) is used by this mod's build scripts.
 - **u/riap0526**: Chinese patch and documentation packaging.
 - **u/Shake69**: partial v3 English translation, reused by the translation project with permission.
 - **hg-engine and contributors**: the underlying engine and graphics contributions (full list below).
 - **Xzonn**: Gen 4 Chinese character table (GPL-3.0).
-- **pret/pokeheartgold**, **ndspy** and **PokeAPI**: acknowledged in the translation project's sources.
+- **[pret/pokeheartgold](https://github.com/pret/pokeheartgold)**, **[ndspy](https://github.com/RoadrunnerWMC/ndspy)** and **[PokeAPI](https://github.com/PokeAPI/pokeapi)**: acknowledged in the translation project's sources.
 
 ## hg-engine
 

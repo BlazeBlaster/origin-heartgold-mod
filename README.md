@@ -71,7 +71,7 @@ Requirements:
 - Python 3 with Pillow.
 - `rom/ohg.nds`: your own Origin HeartGold v4.0.3 EN (rc8) ROM. Not included.
 - `ref/charmap.txt`: the text character map from the [pret/pokeheartgold](https://github.com/pret/pokeheartgold) decompilation. Not included.
-- `ref/ohgrepo/script_cmds.json`: the script command list from the Origin HeartGold tools. Not included.
+- `ref/ohgrepo/script_cmds.json`: the script command list from the Origin HeartGold English translation team's tools, [`work/tools/docs/script_cmds.json`](https://github.com/originheartgold/origin-heart-gold-EN-translation/blob/main/work/tools/docs/script_cmds.json) in [originheartgold/origin-heart-gold-EN-translation](https://github.com/originheartgold/origin-heart-gold-EN-translation). Not included.
 
 ## Credits
 
